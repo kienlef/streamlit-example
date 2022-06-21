@@ -14,7 +14,7 @@ from plotly import tools
 
 The code is deployed via Streamlit Cloud
 Explaining of the world map graphic can be found in the
-Udemy lecture: https://bit.ly/3sM0cYR
+Udemy course: https://bit.ly/3sM0cYR
 """
 
 # GET DATA

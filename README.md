@@ -1,6 +1,5 @@
-# Welcome to Streamlit!
+# Streamlit example on Covid data!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+The app is deployed via the Stramlit cloud and serves for educational purpose.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+If you have any questions, checkout out the course  [Data Science on Covid Data](https://bit.ly/3sM0cYR)
